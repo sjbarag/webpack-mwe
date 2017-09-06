@@ -1,0 +1,18 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "a submodule",
+  "main": "donotuse.js",
+  "distro": {
+    "debian": "apt.js",
+    "ubuntu": "apt.js",
+    "arch": "pacman.js",
+    "fedora": "yum.js",
+    "rhel": "yum.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Barag <sjbarag@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "webpack-mwe",
+  "version": "1.0.0",
+  "description": "tests webpack@3's alias + mainFields compatibility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Barag <sjbarag@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^3.5.6"
+  }
+}
